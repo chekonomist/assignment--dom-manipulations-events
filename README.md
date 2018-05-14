@@ -15,7 +15,7 @@ cd dom-manipulations-events
 3 -- Download the `.zip` file, move it to your `dom-manipulations-events` folder, and unzip it:
 
 ```
-curl https://github.com/muktek/assignment--dom-manipulations-events > assignment-dom-manipulations-events.zip
+curl https://raw.githubusercontent.com/muktek/assignment--dom-manipulations-events/master/assignment-dom-manipulations-events.zip > assignment-dom-manipulations-events.zip
 
 unzip assignment-dom-manipulations-events.zip
 ```
